@@ -10,4 +10,4 @@ SN74AHCT125N logic convert: https://aliexpress.com/item/1005001967094960.html
 Upload the Gerber files to https://jlcpcb.com  
   
 # Releases:  
-2021-11-13.1 https://github.com/RadianceNL/wemos-d1-pro-wled-pcb/releases  
+2021.11.13.1 https://github.com/RadianceNL/wemos-d1-pro-wled-pcb/releases  
